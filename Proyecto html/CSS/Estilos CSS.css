@@ -14,8 +14,13 @@ margin:0;
 #registro{
     border-color: rgb(33, 20, 212);
 }
-.form{
+#container form{
     padding:30px 40px;
+    border-radius: 20px;
+    width: 70%;
+    border: 2px solid red;
+    margin:auto;
+    box-sizing: border-box;
 }
 
 .form-control{
@@ -32,7 +37,7 @@ margin:0;
     font-family: inherit;
     font: size 14px;
     padding:20px;
-    width: 100%;
+    width: 70%;
     }
 .form-control i{
         visibility: hidden;

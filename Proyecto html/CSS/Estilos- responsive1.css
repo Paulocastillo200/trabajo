@@ -9,7 +9,7 @@ html{
 body{
     font-family: Tahoma;
     font-size: 18px;
-    background-image:url(/IMG/Imagen\ fondo\ pagina\ web.jpg);
+    background-image:url(../IMG/Imagen\ fondo\ pagina\ web.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
